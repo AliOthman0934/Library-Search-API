@@ -44,17 +44,17 @@ This project is a React-based website that serves as a platform for managing and
 
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
-   ```bash
+
    
 2. **Install dependencies**:
     ```bash
     npm install
-    ```bash
+
     
 3.  **Start the development server**:
     ```bash
       npm start
-    ```bash
+
 4. **Open your browser and navigate to http://localhost:3000 to view the website**.
 
 ## Usage
